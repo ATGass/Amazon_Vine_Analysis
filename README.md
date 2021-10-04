@@ -5,10 +5,12 @@ I used Google Colab as a python interpreter to feed the Amazon data given in a l
 
 ## Results
 * Total Number of 5 Star Reviews: 498
+* Total Non-Vine Reviews: 104,957
 * Non-Vine 5 Star Reviews: 497
 * Non-Vine 5 Star Reviews Percentage: 99.8%
+* Total Vine Reviews: 18
 * Vine 5 Star Reviews: 1
 * Vine 5 Star Reviews Percentage: 00.2%
 
 ## Summary
-There is not a bias for the paid Amazon Vine Program. The data was available to verify the purchase but the data was not used within the analysis. I don't believe that involving verified purchases would change the conclusion, but I do believe that if it was used there could be a better analysis done on the ratings as a whole. Focusing on only 5 star reviews narrowed down the review pool by half and I think there might be more to the picture with the other reviews.
+There is not a bias for the paid Amazon Vine Program. There is a bias of non-vine reviews because there are far more in total which should add to the total of non-vine 5 star reviews. If there was a 50/50 split to begin with, then the analysis would have been more fair. The data was available to verify the purchase but the data was not used within the analysis. I don't believe that involving verified purchases would change the conclusion, but I do believe that if it was used there could be a better analysis done on the ratings as a whole. Focusing on only 5 star reviews narrowed down the review pool by half and I think there might be more to the picture with the other reviews.
